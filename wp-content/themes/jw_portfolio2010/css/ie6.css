@@ -1,0 +1,57 @@
+/* -------------------------------------------------------------- 
+-----------------------------------------------------------------
+
+	DEFINITIONS:	IE6 specific styles
+	AUTHOR:			Julian Wilke
+	VERSION:		26.04.2010
+	
+-----------------------------------------------------------------
+-------------------------------------------------------------- */
+
+/* Replace PNG24 images with GIFs, because IE6 doesn't support PNG transparency. */
+/* Unfortunately, IE6 PNG Fix didn't work in this case*/
+h1 {
+  background: url(../images/ie6-header.gif) no-repeat;
+}
+
+.page-item-2 a {
+	background: url(../images/ie6-menu-about.gif) no-repeat;
+}
+
+.cat-item-3 a {
+	margin-left: 30px;
+	background: url(../images/ie6-menu-work.gif) no-repeat;
+}
+
+.page-item-3 a {
+	margin-left: 30px;
+	background: url(../images/ie6-menu-skills.gif) no-repeat;
+}
+
+.page-id-2 .current_page_item a {
+	background: url(../images/ie6-menu-about-selected.gif) no-repeat;
+}
+
+.category-work .current-cat a, .single .current-cat a {
+	background: url(../images/ie6-menu-work-selected.gif) no-repeat;
+}
+
+.page-id-3 .current_page_item a {
+	background: url(../images/ie6-menu-skills-selected.gif) no-repeat;
+}
+
+/*IE6 Doubled Float-Margin Bug http://www.positioniseverything.net/explorer/doubled-margin.html */ 
+body.category-work .post {
+  margin-right: 40px; /* gets doubled by IE6: 80px; */
+}
+
+body.category-work .post div {
+  margin-left: 10px; /* gets doubled by IE6: 20px; */
+}
+
+/* correct indenting of list items in IE so the bullet point show up again */
+#text ul li {
+  list-style: disc outside url(../images/ie-list-marker-4px.gif);
+  margin-left: 20px;
+}
+

@@ -1,0 +1,142 @@
+/* -------------------------------------------------------------- 
+-----------------------------------------------------------------
+
+	DEFINITIONS:  Typography
+	AUTHOR:			  Julian Wilke
+	VERSION:		  26.04.2010
+	
+	
+	COLORS:
+  Magenta     #e62286
+  Green       #a6e22e
+  Blue        #3387cc
+	
+-----------------------------------------------------------------
+-------------------------------------------------------------- */
+
+/*
+
+TODO:
+- Complete CSS Fonts Stacks!
+
+*/
+
+
+/* @group basic_typography */
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 22px;
+	font-style: normal;
+	color: #ddd;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+a {
+   text-decoration: none;
+   border-bottom: 1px dotted;
+   color: #a6e22e;
+}
+
+p.footnote {
+  color: #3387cc;
+  margin-top: 12px;
+  margin-left: 12px;
+}
+
+p.footnote a {
+  color: #3387cc;
+}
+
+/* @end   basic_typography */
+
+
+/* @group headings */
+
+h1 {
+    font-size: 30px;
+    line-height: 36px;
+    color: #e62286;
+}
+
+h1 span {
+    color: white;
+    font-weight: bold;
+}
+
+h2, h3, .summary p{
+    font-family: "Rockwell", Georgia, Times, "Times New Roman", serif;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: 300;
+	color: #e62286;
+	margin-bottom: 16px;
+}
+
+h3, h3 a  {
+  font-size: 24px;
+  font-weight: 300;
+  color: #e62286;
+  border: none;
+}
+
+h4 {
+  font-weight: bold;
+  color: #e62286;
+  margin-top: 12px;
+}
+
+/* @end   headings */
+
+
+/* @group specifics */
+
+.summary p{
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: 400;
+	color: white;
+	margin-bottom: 20px;
+}
+
+#back-link a{
+	color: #e62286;
+	border: 0;
+}
+
+.see-more-link {
+	border: 0;
+}
+
+.current_page_item, .current-cat {
+	font-weight: bold;
+}
+
+.page-id-3 h2 {
+	margin-bottom: 0px;
+}
+
+.page-id-3 #text h3 {
+  font-size: 18px;
+  color: #a6e22e;
+  margin-top: 16px;
+}
+
+/* @end   specifics */
+
+
+
+
+
+
+

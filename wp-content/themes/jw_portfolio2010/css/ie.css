@@ -1,0 +1,24 @@
+/* -------------------------------------------------------------- 
+-----------------------------------------------------------------
+
+	DEFINITIONS:	IE7 and IE8 specific styles
+	AUTHOR:			Julian Wilke
+	VERSION:		26.04.2010
+	
+-----------------------------------------------------------------
+-------------------------------------------------------------- */
+
+/* hide focus border for body element in IE8 Standards Mode */ 
+body:focus {
+  outline: none;  
+}
+
+/* correct the cut off h1 header image*/
+#header {
+  height: 135px;
+}
+
+/* set line height: 0px so banners aren't offset vertically */
+#nav {
+  line-height: 0px;
+}

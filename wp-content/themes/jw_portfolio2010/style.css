@@ -1,0 +1,32 @@
+/*
+Theme Name: Julian Wilke - Porfolio 2010
+Theme URI: http://portfolio.julianwilke.com
+Description: Wordpress Theme for Portfolio 2010
+Version: 1.0
+Author: Julian Wilke
+Author URI: http://portfolio.julianwilke.com
+Tags: 
+
+	Julian Wilke - Portfolio 2010 v1.0
+	http://portfolio.julianwilke.com
+
+	Wordpress Theme for Portfolio 2010
+
+*/
+
+
+/*	
+	:HACK: @import Hack
+	All the CSS is imported via @import, which older browsers ignore (IE4 and NN4 and older)
+	They ignore the styling completely and display the content with default styling.
+	http://css-discuss.incutio.com/wiki/Import_Hack
+*/
+
+@import "css/reset.css";
+@import "css/layout.css";
+@import "css/typography.css";
+@import "css/enrichment.css";
+
+/*
+CSS Source Code Layout inspired by elliotjaystocks.com
+*/

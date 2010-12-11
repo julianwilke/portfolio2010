@@ -1,0 +1,314 @@
+/* -------------------------------------------------------------- 
+-----------------------------------------------------------------
+
+	DEFINITIONS:	Layout
+	AUTHOR:			Julian Wilke
+	VERSION:		26.04.2010
+	
+-----------------------------------------------------------------
+-------------------------------------------------------------- */
+
+/* =========== */
+/* = GENERAL = */
+/* =========== */
+
+/* @group basic_layout */
+
+body {
+  background-color: #18181a;
+  background-image: url(../images/body.jpg);
+  background-repeat: repeat;
+}
+
+:focus {
+  outline: #e62286 dotted 1px;
+}
+
+#page {
+  width: 976px;
+  margin-left: 87px;
+}
+
+h1 {
+  /*  position: absolute;*/
+  width: 222px;
+  height: 135px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  float: left;
+  text-indent: -9999px;   /* Phark Revisited Image Replacement: http://www.mezzoblue.com/tests/revised-image-replacement/*/
+  background: url(../images/header.png) no-repeat;
+}
+
+#content {
+  margin-top: 94px;
+}
+
+#text p  {
+    margin-bottom: 12px;
+}
+
+#text ul li {
+  list-style: disc outside url(../images/list-marker-4px.gif);
+  margin-left: 12px;
+  /*
+  background: url(../images/list-marker-4px.gif) no-repeat  0% 8px; 
+  */
+}
+
+#text ul ul {
+  margin-left: 20px;
+}
+
+/* @end   basic_layout */
+
+
+/* @group header */
+
+#header {
+  margin-top: 29px;
+}
+
+/* @end   header */
+
+
+/* @group navigation */
+
+#nav {
+  outline: 0;
+  width: 300px;
+  margin-top: 6px;
+  margin-left: 282px;
+  float: left;
+}
+
+#nav, #nav li a {
+  display: block;
+}
+
+#nav li a{
+	width: 78px;
+	height: 124px;
+	float: left;
+	border-bottom: 0;
+	text-indent: -9999px;   /* Phark Revisited Image Replacement: http://www.mezzoblue.com/tests/revised-image-replacement/*/
+}
+
+#nav li a:focus {
+	outline: 0;
+}
+
+.page-item-2 a {
+	background: url(../images/menu-about.png) no-repeat;
+}
+
+.cat-item-3 a {
+	margin-left: 30px;
+	background: url(../images/menu-work.png) no-repeat;
+}
+
+.page-item-3 a {
+	margin-left: 30px;
+	background: url(../images/menu-skills.png) no-repeat;
+}
+
+.page-id-2 .current_page_item a {
+	background: url(../images/menu-about-selected.png) no-repeat;
+}
+
+.category-work .current-cat a, .single .current-cat a {
+	background: url(../images/menu-work-selected.png) no-repeat;
+}
+
+.page-id-3 .current_page_item a {
+	background: url(../images/menu-skills-selected.png) no-repeat;
+}
+
+/* @end   navigation */
+
+
+/* @group footer */
+
+#footer {
+  width: 976px;
+  min-height: 80px;
+  margin-left: 87px;
+}
+
+/* @end   footer */
+
+
+/* ================= */
+/* = PAGE SPECIFIC = */
+/* ================= */
+
+/* @group about_page_specific */
+
+.page-id-2 #text {
+  width: 460px; /* 620px, 540px, 460px, 380px */
+  float: left;
+}
+
+.page-id-2 #text img {
+  border: none;
+}
+
+#cvbutton {
+  border: none;
+}
+
+/* @end   about_page_specific */
+
+
+/* @group skills_page_specific */
+
+.page-id-3 #text {
+  /* Skills Page */
+  width: 620px; /* 620px, 460px, 380px */
+}
+
+/* @end   skills_page_specific */
+
+
+/* @group work_overview_specific */
+
+body.category-work .post {
+  width: 400px;
+  /*  height: 500px; */
+  height: 475px;
+  float: left;
+  margin-right: 80px;
+}
+
+body.category-work .post h3 {
+  margin-bottom: 5px;
+}
+
+body.category-work .post div, body.category-work .post img {
+  float: left;
+  margin-left: 20px;
+}
+
+body.category-work .post div {
+  width: 380px;
+  margin-top: 9px;
+}
+
+bopy.category-work .post img {
+  margin-top: 14px;
+}
+
+body.category-work #first-post {
+  width: 800px;
+  height: 290px;
+  float: none;
+  margin-bottom: 80px;
+  margin-right: 0px;
+}
+
+body.category-work .post img {
+  width: 278px;
+  height: 218px;
+  border: 10px solid white;    
+}
+
+body.category-work #first-post img {
+  width: 353px;
+  height: 247px;
+}
+
+/* @end   work_overview_specific */
+
+
+/* @group work_single_post_specific */
+
+.single #text {
+  width: 380px;
+  float: left;
+}
+
+.single .post ul {
+  margin-bottom: 12px;
+}
+
+#images {
+  float: left;
+  margin-left: 26px;
+  padding-top: 51px;
+}
+
+.single #images {
+  width: 460px;
+}
+
+.page-id-2 #images {
+  /* About Page */
+  width: 380px;
+}
+
+#text img, #images img {
+  border: 10px solid white;
+}
+
+#text img {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+#images img {
+  float: left;
+}
+
+.single .image01 {
+    
+}
+
+.single .image02 {
+  margin-top: 20px;
+}
+
+.single .image03 {
+  margin-top: 20px;
+  margin-left: 20px;    
+}
+
+.single .image04 {
+    
+}
+
+/* @end   work_single_post_specific */
+
+
+/* ============ */
+/* = BUGFIXES = */
+/* ============ */
+
+/* @group clearfix */
+
+/* http://csscreator.com/attributes/containedfloat.php */
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+* html .clearfix {
+  height: 1%;
+}
+
+.clearfix {
+  display: block;
+}
+
+
+/* @end   clearfix */
+
+

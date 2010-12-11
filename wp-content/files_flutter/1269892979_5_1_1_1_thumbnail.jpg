@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><title>CELEROS ONLINE</title>
+<link href="style.css" type="text/css" rel="stylesheet" /><script>
+function utmx_section(){}function utmx(){}
+(function(){var k='1447172472',d=document,l=d.location,c=d.cookie;function f(n){
+if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
+length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+
+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
++'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
++new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script></head>
+<body><div id="header"> <a href="http://www.celeros.de"><img style="border: 0px solid ; width: 800px; height: 85px;" alt="CELEROS ONLINE KG - Zur Startseite" src="images/header.gif" /></a></div><div id="navigation"> <ul> <li><a class="active" href="http://www.celeros.de">Startseite</a></li>
+<li><a href="webhosting.html">Webhosting</a></li>
+<li><a href="reseller.html">Reseller</a></li>
+<li><a href="domains.html">Domains</a></li>
+<li><a href="vserver.html">vServer</a></li>
+<li><a href="kontakt.html">Kontakt</a></li><li>&nbsp;</li>
+</ul> </div><div id="domaincheck"><form action="http://celeros.orderpanel.de/bestellvorgang/index.php?md5id=d6a9a&amp;id=1&amp;page=1domain_whois" method="post" target="_blank"><input name="action" value="check_domain" type="hidden" /><input name="tarrif" value="" type="hidden" /><input value="wunschdomain" name="domain" type="text" /><select name="tld"><option value=".de">.de</option><option value=".com">.com</option><option value=".com">.net</option></select>
+<input class="button" value="CHECK" name="ok" type="submit" /></form></div><div id="content"><div id="content-left"><h2>MENÜ</h2>
+<ul> <li><a href="http://www.celeros.de">»
+STARTSEITE</a></li> <li><a href="webhosting.html">»
+WEBHOSTING</a></li> <li><a href="reseller.html">»
+RESELLER</a></li> <li><a href="domains.html">»
+DOMAINS</a></li><li><a href="vserver.html">»&nbsp;VSERVER</a></li>
+<li><a href="kontakt.html">»
+KONTAKT</a></li> </ul> <h2>Aktuelle
+Informationen</h2><h3 style="color: rgb(187, 0, 32); font-weight: bold;"><big><big><span style="font-weight: bold;">Kundenwerbung</span></big></big></h3><p>...für
+Celeros Online&nbsp;<br />lohnt&nbsp;sich! Werben Sie<br />einen
+neuen Kunden egal<br />welcher Tarif oder Dienst-<br />leistung
+und Sie erhalten<br />einen Monat kostenloses<br />Webhosting.
+Der geworbene Kunde muss dafür im Bestellprozess lediglich die
+Kundennummer des Werbers angeben. (Voraussetzung: Der Geworbene bucht
+ein gleich großes oder größeres Paket.)<br /><big><big><span style="color: rgb(187, 0, 32); font-weight: bold;"></span></big></big></p><h3 style="color: rgb(187, 0, 32); font-weight: bold;"><big><big><span style="font-weight: bold;">Kundenmeinungen</span></big></big></h3><p>Wie
+zufrieden sind unsere&nbsp;<br />Kunden eigentlich mit uns?
+Lesen Sie selbst!<br /><br />Jessica W.<br />sommereltern2008.de<br />schreibt:<br />Die
+Leistung und die Performance des Servers sind Top! Alles konstant sehr
+gut. Ausfälle waren bisher noch nicht zu verzeichnen.<br />Ganzen&nbsp;Kommentar
+lesen? <a href="http://www.webhostlist.de/provider/benutzermeinung/9969/Celeros-Online/37074.html" target="_blank">www.webhostlist.de</a><br /><br />Thomas
+K.<br />kaethe-moss.de<br />schreibt:<br />Leistung
+sehr gut, keine Ausfälle, 100% Verfügbarkeit. Geschwindigkeit
+überzeugend.<br />Ganzen Kommentar lesen?<br /><a href="http://www.webhostlist.de/provider/benutzermeinung/9969/Celeros-Online/36886.html" target="_blank">www.webhostlist.de</a><br /><br />Frank
+R.<br />die-hundefreun.de<br />schreibt:<br />Ich bin
+froh das ich gewechselt bin und nun endlich einen günstigen, guten
+Hoster für mein Hundesport-Portal geunden habe.<br />Ganzen
+Kommentar lesen?<br /><a href="http://www.hostsuche.de/firmendetails.php?id=3184&amp;task=5a&amp;bewid=6760&amp;lid=2" target="_blank">www.hostsuche.de</a></p></div>
+<div id="content-main"><table class="offer-start" width="100%"> <tbody><tr><td style="background-color: rgb(255, 255, 255);" colspan="3" rowspan="1"><span style="color: rgb(187, 0, 31); font-weight: bold;"></span><img style="width: 468px; height: 60px;" alt="" src="images/468x60_start_special_rr.gif" /><br /><a href="webhosting_christmas09.html"><span style="text-decoration: underline;"><span style="font-weight: bold;"><img style="border: 0px solid ; width: 468px; height: 60px;" alt="" src="images/cel-1-468x60-chris.gif" /></span></span></a><br /></td></tr><tr><td><a class="top" href="webhosting_light.html">WEBHOSTING&nbsp;LIGHT
+»</a> <p>» 1. de Domain<br /> » 200 MB Webspace<br />
+» 100 E-Mail Postfächer<br />
+» unbegrenzter Traffic </p> <p class="detail"><span class="red"><span style="text-decoration: line-through;">
+</span><span style="font-weight: bold;" class="big">0,49</span><span style="font-weight: bold;"> €/Monat</span><span style="text-decoration: line-through; font-weight: bold;"></span></span><span style="font-weight: bold;" class="red"><br /></span></p><p class="detail"><a href="webhosting_light.html">Informationen</a>
+| <a href="http://order.celeros.de">Bestellen</a></p>
+</td> <td class="white"> <a class="top" href="webhosting_mini.html">WEBHOSTING MINI »</a> <p>»
+1. de
+Domain<br /> » 1.000 MB Webspace<br /> » 250 E-Mail
+Postfächer<br /> » 10 GB Traffic </p>
+<p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">0,69</span>
+€/Monat<br /></span></p> <p class="detail"><a href="webhosting_mini.html">Informationen</a> | <a href="http://order.celeros.de">Bestellen</a></p>
+</td> <td> <a class="top" href="reseller_start.html">RESELLER
+START »</a> <p>» 5. de Domain<br /> » 100 GB Webspace<br />
+» 2500 E-Mail Postfächer<br />
+» 100 GB Traffic </p> <p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">19,99</span> €/Monat<br /></span></p>
+<p class="detail"><a href="reseller_start.html">Informationen</a>
+| <a href="http://order.celeros.de">Bestellen</a></p>
+</td> </tr> <tr> <td> <a class="top" href="webhosting_start.html">WEBHOSTING START »</a> <p>»
+1. de
+Domain<br /> » 5.000 MB Webspace<br /> » 300 E-Mail
+Postfächer<br /><span style="font-weight: bold;"> »&nbsp;unbegrenzter Traffic</span> </p>
+<p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">0,99</span>
+€/Monat<br /></span></p> <p class="detail"><a href="webhosting_start.html">Informationen</a> | <a href="http://order.celeros.de/">Bestellen</a></p></td>
+<td class="white"> <a class="top" href="webhosting_profi.html">WEBHOSTING PROFI »</a> <p>»
+1. de
+Domain<br /> » 25.000 MB Webspace<br /> »&nbsp;500
+E-Mail Postfächer<br />» 250 GB Traffic </p>
+<p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">2,99</span>
+€/Monat<br /></span></p> <p class="detail"><a href="webhosting_profi.html">Informationen</a> | <a href="http://order.celeros.de/">Bestellen</a></p></td>
+<td> <a class="top" href="reseller_experte.html">RESELLER
+EXPERTE »</a> <p>» 10. de Domain<br /> » 200 GB
+Webspace<br /> »&nbsp;5000 E-Mail Postfächer<br /> »
+200 GB Traffic </p> <p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">29,99</span> €/Monat<br /></span></p>
+<p class="detail"><a href="reseller_experte.html">Informationen</a>
+| <a href="http://order.celeros.de">Bestellen</a></p>
+</td> </tr><tr><td style="font-weight: bold;"><a class="top" href="webhosting_business.html">WEBHOSTING
+BUSINESS</a>
+<p><span style="font-weight: normal;">» 2. de
+Domain</span><br style="font-weight: normal;" /><span style="font-weight: normal;"> » 50.000 MB Webspace</span><br style="font-weight: normal;" /><span style="font-weight: normal;"> » 750 E-Mail
+Postfächer</span><br style="font-weight: normal;" />
+» 500 GB Traffic </p>
+<p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">4,99</span>
+€/Monat<br /></span></p> <p class="detail"><a href="webhosting_business.html">Informationen</a> | <a href="http://order.celeros.de/">Bestellen</a></p></td><td style="background-color: rgb(255, 255, 255); font-weight: bold;"><a class="top" href="webhosting_premium.html">WEBHOSTING
+PREMIUM</a>
+<p><span style="font-weight: normal;">» 10. de
+Domain</span><br style="font-weight: normal;" /><span style="font-weight: normal;"> » 10.000 MB Webspace</span><br style="font-weight: normal;" /><span style="font-weight: normal;"> » 750 E-Mail
+Postfächer</span><br style="font-weight: normal;" />
+» unbegrenzter Traffic </p>
+<p class="detail"><span style="font-weight: bold;" class="red"> <span class="big">9,99</span>
+€/Monat<br /></span></p> <p class="detail"><a href="webhosting_premium.html">Informationen</a> | <a href="http://order.celeros.de/">Bestellen</a></p></td><td style="font-weight: bold;"><a class="top" href="vserver_light.html">VSERVER LIGHT »</a>
+<p>»
+1. de
+Domain<br /> » 1.000 MB Webspace<br /> » 75 MB RAM<br />»
+Datentransfer inkl. </p>
+<p class="detail"><span class="red"> <big><span class="big">4,99</span>
+</big><big><big>€/Monat</big></big><br /></span></p>
+<p class="detail"><a href="vserver_light.html">Informationen</a>
+| <a href="http://order.celeros.de/">Bestellen</a></p></td></tr>
+</tbody></table> <h1>Celeros
+Online - Bei uns finden Sie sicherlich das richtige Paket!</h1> <p><font face="Arial, sans-serif">Wir begrüßen Sie auf der
+Internetpräsenz der <span style="font-weight: bold;">Celeros
+Online</span> KG!<br /><span style="font-weight: bold;">Celeros
+Online</span> ist ein Internet-Provider der sich auf Webhosting-,
+Reseller-, E-Mail- und
+Domain-Providing spezialisiert hat. Egal ob Privatkunden oder
+Geschäftskunden, wir hosten Ihr Internetprojekt zu einem
+<b>günstigen</b> Preis unter professionellen hohen
+Standards.
+Von einem kleinem&nbsp;<b><font color="#b84700">Mini</font>-Paket</b>
+bis hin zum <b><font color="#0000ff">Reseller
+Experte-Paket</font></b>,
+haben wir für jeden Kunden ein <b>preiswertes</b>
+Webhostingpaket!<br />Wenn Sie nur auf der Suche nach einer
+Domainumleitung oder auch ein Provider suchen bei dem Sie Ihre
+E-Mails verwalten können, sind Sie bei <span style="font-weight: bold;">Celeros Online</span>
+bestens aufgehoben. Zögern Sie nicht länger und wechseln
+Sie <b>kostenlos</b> mit Ihren Domains zu Celeros Online.</font></p></div>
+<div id="content-right"> <h2>Live Support<br /></h2>
+<script language="JavaScript" src="http://www.celeros.de/yalst/yalst.js.php?site=1-1" type="text/javascript"></script><table align="center" border="0" cellspacing="0" width="10"><tbody><tr><td><script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script></td></tr><tr><td align="center" height="0"></td></tr></tbody></table><a href="http://www.webhostlist.de/provider/webhoster/9969/Celeros-Online.html" target="_blank"><img src="http://www.mywebhostlist.de/images/verfuegbar.php?txt=11/09&amp;chk=028a79717f71cd6eebb15a0c203ed2e3" border="0" /></a><a href="http://www.webhostlist.de/provider/webhoster/9969/Celeros-Online.html" target="_blank"><img src="http://www.mywebhostlist.de/images/verfuegbar.php?txt=10/09&amp;chk=cd27b3e56d43b038889d88c8f60f8219" border="0" /></a><a href="http://www.webhostlist.de/provider/webhoster/9969/Celeros-Online.html" target="_blank"><img src="http://www.mywebhostlist.de/images/verfuegbar.php?txt=9/09&amp;chk=c360e109eb47159280ebfeb7a06c6e6d" border="0" /></a><a href="http://www.webhostlist.de/provider/webhoster/9969/Celeros-Online.html" target="_blank"><img src="http://www.mywebhostlist.de/images/verfuegbar.php?txt=8/09&amp;chk=d654c8cfcf2a082bf6818d9e7682540e" border="0" /></a><a href="http://www.webhostlist.de/provider/webhoster/9969/Celeros-Online-KG.html" target="_blank"><img src="http://www.webhostlist.de/anbieter/logo.php?aid=9969&amp;typ=pprovider" border="0" /></a><a href="http://www.homepage-kosten.de/provider.php?PID=3322"><img style="border: 0px solid ; width: 140px; height: 50px;" alt="" src="images/button_premium_v2.png" /></a><a href="http://www.hostsuche.de/firmendetails.php?id=3184" target="_top"><img src="http://www.hostsuche.de/pp_logo.php?id=3184&amp;logo=1" alt="Hostsuche.de - Premium-Provider" align="middle" border="0" /></a><a href="http://www.hosttest.de" target="_blank"><img src="http://www.hosttest.de/images/button/0110.gif" alt="Webspace;" border="0" /></a></div></div><div id="footer"> <div id="footer-left"><p>©
+2008 BY CELEROS ONLINE KG</p> </div> <div id="footer-right"> <p><a href="kontakt.html">KONTAKT</a>
+|&nbsp;<a href="agb.html">AGB</a> | <a href="impressum.html">IMPRESSUM</a></p> </div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6764874-1");
+pageTracker._trackPageview();
+} catch(err) {}</script><script type="text/javascript">
+if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+(document.location.protocol=='https:'?'s://ssl':'://www')+
+'.google-analytics.com/ga.js"></sc'+'ript>')</script><script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-6764874-2");
+pageTracker._trackPageview("/1447172472/test");
+}catch(err){}</script></div><!-- Google Code for Celeros Conversion Page --><script type="text/javascript">
+<!--
+var google_conversion_id = 1036508833;
+var google_conversion_language = "de";
+var google_conversion_format = "2";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "BUzsCLvOtQEQob2f7gM";
+var google_conversion_value = 0;
+//-->
+</script><script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script><noscript><div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt=""
+src="http://www.googleadservices.com/pagead/conversion/1036508833/?label=BUzsCLvOtQEQob2f7gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript></body></html>

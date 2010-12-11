@@ -1,0 +1,16 @@
+/* -------------------------------------------------------------- 
+-----------------------------------------------------------------
+
+	DEFINITIONS:	IE7 specific styles
+	AUTHOR:			Julian Wilke
+	VERSION:		26.04.2010
+	
+-----------------------------------------------------------------
+-------------------------------------------------------------- */
+
+/* correct indenting of list items in IE so the bullet point show up again */
+#text ul li {
+  list-style: disc outside url(../images/ie-list-marker-4px.gif);
+  margin-left: 20px;
+}
+
